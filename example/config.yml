@@ -21,3 +21,6 @@ mth-tf:
 
 lpf-tf:
   bucket: lf-internal
+
+bt-tf:
+  bucket: bt-internal
